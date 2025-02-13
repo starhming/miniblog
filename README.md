@@ -25,7 +25,7 @@ miniblog 项目有配套的课程和书籍：
 - 配套的视频课程：[《从零开发企业级Go应用 - 视频课程》](https://konglingfei.com)
 - **学完 miniblog 的下一站**：miniblog 学完后，强烈建议学习更高阶的课程[《孔令飞的云原生实战营体系课》](https://konglingfei.com)，实战营中的课程体系可以大幅提升你的技术能力和职场竞争力；
 
-## 功能列表
+## 功能特点
 
 - 软件架构：采用简洁架构设计，确保项目结构清晰、易维护；
 - 高频Go包：使用了Go项目开发中常用的包，如gorm、casbin、govalidator、jwt-go、gin、cobra、viper、pflag、zap、pprof、grpc、protobuf、uuid、grpc-gateway等；
@@ -39,7 +39,8 @@ miniblog 项目有配套的课程和书籍：
 - 多种服务器类型：实现了gRPC服务器、HTTP服务器和HTTP反向代理服务器；
 - 多种数据交换格式：支持JSON和Protobuf数据格式的交换；
 - 开发规范：遵循多种开发规范，包括代码规范、版本规范、接口规范、日志规范、错误规范以及提交规范等；
-- API设计：接口设计遵循RESTful API规范，并提供OpenAPI 3.0和Swagger 2.0格式的API文档。
+- API设计：接口设计遵循RESTful API规范，并提供OpenAPI 3.0和Swagger 2.0格式的API文档；
+- 部署难度低：实战项目可以快速部署。
 
 ## 快速开始
 
