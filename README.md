@@ -1,6 +1,6 @@
 ## miniblog 项目
 
-> 云原生 AI 实战营项目之一，更多精彩项目见：[云原生 AI 实战营](https://konglingfei.com/)。
+- 更多「云原生 AI 实战营」项目见：[云原生 AI 实战营项目介绍](https://konglingfei.com/cloudai/intro/%E4%BA%91%E5%8E%9F%E7%94%9F_AI_%E5%AE%9E%E6%88%98%E8%90%A5%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.html)
 
 **小而美的 Go 实战项目，入门但不简单。**
 
@@ -22,10 +22,9 @@ miniblog 实现了以下 2 类功能：
 
 ## 配套学习课程
 
-miniblog 项目有配套的课程和书籍：
-- 人民邮电出版社图书《从零开发企业级Go应用》;
-- 配套的视频课程：[《从零开发企业级Go应用 - 视频课程》](https://konglingfei.com)
-- **学完 miniblog 的下一站**：miniblog 学完后，强烈建议学习更高阶的课程[《孔令飞的云原生实战营体系课》](https://konglingfei.com)，实战营中的课程体系可以大幅提升你的技术能力和职场竞争力；
+miniblog 项目配套的课程见：[Go 项目开发中级实战课](https://konglingfei.com/cloudai/catalog/intermediate.html)
+
+![](./docs/images/中级实战课课程目录合并图.png)
 
 ## 功能特点
 
